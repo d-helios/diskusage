@@ -22,6 +22,15 @@ diskusage [flags] [path]
 Main keys: `↑↓` move, `→`/`enter` open, `←` back, `space` mark, `d` delete,
 `/` filter, `s` sort, `?` help, `q` quit.
 
+
+</details><summary>Screenshots</summary>
+
+<img width="1330" height="746" alt="image" src="https://github.com/user-attachments/assets/9f535c24-9195-482d-a051-3957df39e176" />
+
+
+</details>
+
+
 ## Build
 
 ```sh
